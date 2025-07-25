@@ -7,5 +7,5 @@ PYTHON
 
 ## USAGE 
 CLONE THE REPO 
-INSTALL THE REQUIREMENTS  pip install -r requirements.txt
-RUN THE COMMAND python manage.py runserver
+INSTALL THE REQUIREMENTS  (pip install -r requirements.txt) ,
+RUN THE COMMAND (python manage.py runserver)
