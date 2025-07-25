@@ -1,3 +1,0 @@
-TO RUN THE APPLICATION 
-CLONE THE PROJECT 
-RUN THE SEVER (python manage.py runserver)
