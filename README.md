@@ -3,7 +3,6 @@ Developed a full-featured online shopping website using Django. The platform all
 
 ## TECH STACK 
 HTML 
-CSS
 PYTHON
 
 ## USAGE 
